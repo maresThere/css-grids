@@ -12,13 +12,13 @@ h1, h2, h3, h4 {
   font-family: 'Quicksand', sans-serif;
 }
 
-/*.imgContainer {
+.imgContainer {
   display: grid;
   width: 1000px;
   justify-content: center;
   grid-template-columns: 200px 200px 200px;
   grid-gap: 5px;
-}*/
+}
 
 img {
   max-height: 200px;
